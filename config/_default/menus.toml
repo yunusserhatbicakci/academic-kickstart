@@ -31,7 +31,20 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 60 
+
+
+[[main_right]]
+  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://twitter.com/yunusserhat"
+  weight = 20
+
+[[main_right]]
+  name = "<i class=\"fab fa-instagram\" style=\"font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://instagram.com/yunusserhat"
+  weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
