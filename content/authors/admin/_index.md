@@ -29,7 +29,7 @@ education:
   courses:
   - course: Geographical Information Technologies-Ph.D.
     institution: Istanbul Technical University
-    year: 2020
+    year: 2021
   - course: Management Information Systems-M.Sc.
     institution: Sakarya University
     year: 2013
